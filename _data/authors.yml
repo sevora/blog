@@ -1,0 +1,17 @@
+Sevora:
+  name: "Ralph Louis Gopez"
+  bio: "A problem-solver, both analytic and observant."
+  avatar: "/assets/images/profile.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ralph.louis.g@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://sevora.tech"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/sevora"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ralphlouisgopez"
