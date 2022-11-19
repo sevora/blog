@@ -23,7 +23,8 @@ email: ralph.louis.g@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sevora's journal detailing his story of learning, growing, and evolving
   in the field of computer science, programming, and use of technology.
-baseurl: "/journey" # the subpath of your site, e.g. /blog
+# only uncomment this if hosted directly on github pages, on sevora.tech domain don't
+# baseurl: "/journey" # the subpath of your site, e.g. /blog
 url: "https://sevora.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ralphlouisgopez
 github_username:  sevora
