@@ -11,7 +11,7 @@ by programming my own solution without ever looking it up on Google. I learned a
 
 ## Why a phone?
 My family's not poor, but we aren't THAT rich as well. We're getting by as long as we do our best. That phone was really not all that amazing.
-I would see other kids having way better devices than me. I always thought that their gadgets were pretty much wasted on their hands. I always thought
+I would see other kids having way better devices than me. I always thought that their gadgets were pretty much wasted on them. I always thought
 that I deserve what they have more than they do. *I was envious.*
 
 ## A lesson I learned
