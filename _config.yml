@@ -27,9 +27,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 # baseurl: "/journey" # the subpath of your site, e.g. /blog
 # intentionally misusing the url with a subpath as a fix to some issues
 url: "https://sevora.github.io/journey" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ralphlouisgopez
-github_username:  sevora
+twitter:
+  username: "ralphlouisgopez"
+facebook:
+  username: "p.ralphlouisgopez"
+github_username: "sevora"
 author: Sevora
+og_image: "/assets/images/site-banner.png"
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
@@ -41,6 +45,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 defaults:
   # _posts
