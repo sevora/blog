@@ -7,7 +7,7 @@ Creative coding is programming mainly done for "expression" rather than "functio
 made through code. In simple terms, it programming to create art.
 
 ## Where can I find art made through code?
-There's a lot of amazing artworks out there done using programming. One particular personality that stands out when it
+There's a lot of amazing artworks out there made by programming. One particular personality that stands out when it
 comes to this topic would be [@beesandbombs](https://twitter.com/beesandbombs). As you will see, oftentimes their work
 has patterns that are recursive, repeating, and is inspired from the natural world.
 
