@@ -1,5 +1,5 @@
 ---
-title: "Why is Vim my main text editor?"
+title: "Why is Vim my Main Text Editor?"
 ---
 
 ## What is vim?
