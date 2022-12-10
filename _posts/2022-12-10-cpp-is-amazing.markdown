@@ -27,8 +27,8 @@ A program that is already in binary can be ran directly by the machine. Otherwis
 time. 
 
 It is definitely easier to develop in a high-level language that is interpreted. But it comes with that performance cost.
-One would not actually write a real-time game in Python even if it was possible simply because Python is amazingly slow. 
-The same program written say in C++ could at least be 100x more efficient and faster by several orders of magnitude.
+One would not actually write a real-time game in Python even if it was possible simply because Python is incredibly slow. 
+Mfw, Python should have been named Tortoise instead. The same program written say in C++ could at least be 100x more efficient and faster by several orders of magnitude.
 
 ## So should I learn C++?
 If you were to ask me today, I would recommend it. But thinking back when I was a beginner, I wouldn't.
