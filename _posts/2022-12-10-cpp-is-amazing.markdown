@@ -23,7 +23,7 @@ You see, we also have the terms *compiled* and *interpreted*. Low-level language
 essentially the very bits and bytes that would quite literally be put into the RAM and run. Whereas, high-level languages are usually interpreted. An interpreted language
 has the instructions run line by line. Take a line in the code, run its machine code equivalent, and repeat for the next line and so on. That kind of process comes with an overhead.
 
-A program that is already in binary can be ran directly by the machine. Otherwise, it would have to read in everything line by line, and translate to machine code equivalent every single
+A program that is already in binary can be run directly by the machine. Otherwise, it would have to read in everything line by line, and translate to machine code equivalent every single
 time. 
 
 It is definitely easier to develop in a high-level language that is interpreted. But it comes with that performance cost.
