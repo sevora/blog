@@ -1,5 +1,5 @@
 ---
-title: "I have been working on private projects"
+title: "I Have Been Working on Private Projects"
 ---
 
 So, I've been working on private projects. It's quite massive. I'm learning some concepts along the way but they're more of ideas to improve managing and organizing a project so that it is maintainable even with the large amount of things that's supposed to be there.
