@@ -2,7 +2,7 @@
 title: "Hello World!"
 ---
 
-*This is **NOT** a blog site at all*. It's a journal. It's a collection of the stories I have working on tech
+This i a collection of the stories I have working on tech
 and I'd like to start from the beginning.
 
 ## Early Days
