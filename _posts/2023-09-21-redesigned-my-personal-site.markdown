@@ -1,15 +1,14 @@
 ---
 title: "I Redesigned my Personal Site"
 ---
-
-Check it out [here](https://sevora.github.io/portfolio)!
-
-## What's the purpose of that site?
-Well, I'd like to call it a portfolio site but it doesn't even showcase my works. Rather, it's just about me. So I guess, we can call it a personal site. 
 I am the kind of person who values putting things into practice rather than talking about them. Hence, instead of giving you these tech buzzwords and whatnot,
 I'd just demonstrate to you what I can do.
+Take a look [here](https://sevora.github.io/portfolio)!
 
-Well the site doesn't totally reflect all of what I can do. It's just something for me to unleash my creativity a bit. I've probably done more complex things than that,
+## What's the purpose of that site?
+I'd like to call it a portfolio site but it doesn't even showcase my works. Rather, it's just about me. So I guess, we can call it a personal site. 
+
+The site doesn't totally reflect all of what I can do. It's just something for me to unleash my creativity a bit. I've probably done more complex things than that,
 but most people wouldn't appreciate those complex things. They want shiny, showy things so that's what I played with.
 
 ## How did you think of it?
