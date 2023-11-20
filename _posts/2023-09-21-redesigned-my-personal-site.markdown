@@ -2,7 +2,7 @@
 title: "I Redesigned my Personal Site"
 ---
 
-Check it out here [https://sevora.tech](https://sevora.tech)
+Check it out [here](https://sevora.github.io/portfolio)!
 
 ## What's the purpose of that site?
 Well, I'd like to call it a portfolio site but it doesn't even showcase my works. Rather, it's just about me. So I guess, we can call it a personal site. 
