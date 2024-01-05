@@ -2,7 +2,7 @@
 title: "Hello World!"
 ---
 
-This i a collection of the stories I have working on tech
+This is a collection of the stories I have working on tech
 and I'd like to start from the beginning.
 
 ## Early Days
