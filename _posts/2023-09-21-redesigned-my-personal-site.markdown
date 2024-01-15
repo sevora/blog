@@ -3,7 +3,7 @@ title: "I Redesigned my Personal Site"
 ---
 I am the kind of person who values putting things into practice rather than talking about them. Hence, instead of giving you these tech buzzwords and whatnot,
 I'd just demonstrate to you what I can do.
-Take a look [here](https://sevora.github.io/portfolio)!
+Take a look [here](https://sevora.github.io/story)!
 
 ## What's the purpose of that site?
 I'd like to call it a portfolio site but it doesn't even showcase my works. Rather, it's just about me. So I guess, we can call it a personal site. 
