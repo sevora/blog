@@ -1,0 +1,17 @@
+---
+title: "Reminiscing and learning from everything up until my 3rd year as a college student"
+---
+If I'm comparing the time I had learning in school or college then I could say that:
+- Grade school was really fun and at the end I think everyone there learned to be kind.
+- High school wast the most challenging, and it is probably where I actually felt the most pressure, but it is also remarkable in a way where I've improved much too.
+- College, I feel is the most tame. While there are challenges, most of them are ill-suited to measure my real ability to apply my genius and experience of them. Most of the time, it is trivia, and buzzwords that catch me off guard. 
+
+I feel like my ability to think has improved over the years. My mind has improved in a way of speed, logic, capacity, and somewhat empathy. I particularly notice it when I can kind of foresee the future. No, not in the way that I would be able to tell, at all times, the outcome of a coin flip before it finishes. This ability to see the future only applies to the things you probably have an expertise of. It's like when your expectations of yourself and your work always coincide with the future. That means when developing software, I see all the requirements, the processes, and the difficulties, and I could refine my approach just by imagining about it and later executing the idea when there is a shot to success.
+
+What could this ability apply to? Mainly, the development of software or its design. Maybe, organizing my schedule of tasks. Maybe, on to the other skills I might pick up. Another thing that I can seemingly do with my head is split the left and the right processes. What I mean is, when a task requires my left and right side such as hands individually, I could let them do their own thing on their own way. To explain this better: when I play beat saber at the higher difficulties, I do see a pattern as a whole on how the notes will appear. But when I'm still learning about the pattern, my left and right individually process each block I have to hit to be able to catch up (as in react). Meaning it's like moving both left and right without the overhead of accounting which the task is for left and the task for right. Difficult to explain but it does happen.
+
+I also kind of feel better when I have to memorize things compared to before when I felt that such a thing was quite dreadful. Blindly memorizing things is in no way an act of learning. But sometimes, there's no way around but to memorize and then let all of it go when it's unnecessary anymore. 
+
+Although I would admit, at least our finals in college is more interesting because of the project requirements. I believe this year, we're going to have to develop and present an application or software which I find a bit exciting. Ironically, I still have no ideas for an actual good software I can present.
+
+Another thing I want to share relating to this is actually the power of boredom. You see, letting yourself be bored may actually make you smarter. Our ability to absorb things out of things depletes when we're awake and replenishes when we sleep. It's not like we can fully control how much our mind absorbs when we're doing cognitive tasks. So, letting ourselves be bored, actually can save this ability to absorb for more important things in the day, or sometimes it can give you better ideas more than what you would have thought otherwise.
