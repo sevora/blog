@@ -13,7 +13,7 @@ You could try it out at [https://superhealth.pages.dev](https://superhealth.page
 Its purpose is to be able to give an advice, although not exactly a professional advice, on how to better improve your health. It can try and predict the likelihood of certain conditions. The models are lightweight as well.
 
 <video style="width: 90%;" autoplay controls>
-  <source src="/assets/videos/bank-superhealth.mp4" type="video/mp4">
+  <source src="/assets/videos/superhealth.mp4" type="video/mp4">
 </video>
 
 ## Ramble Mobile
