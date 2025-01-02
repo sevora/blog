@@ -20,7 +20,9 @@ Its purpose is to be able to give an advice, although not exactly a professional
 This Ramble project isn't new if you've seen my other entries which is about a social media application. For this one we've provided a mobile client and I extended the server functionality to support the upload of images. It is a step closer to a social media site. The source code is on [Github](https://github.com/sevora/ramble).
 
 ## Regex to FA
-This is a very specific project and its mainly concerned with automatons. So, it's more of a computer science heavy topic. This mobile and web application can draw the finite automaton diagrams in real-time locally as you input the valid regular expression.
+This is a very specific project and its mainly concerned with automatons. So, it's more of a computer science heavy topic. This mobile and web application can draw the finite automaton diagrams in real-time locally as you input the valid regular expression. 
+
+I wrote this first on the web as I'm more used to the native HTML5 Canvas API. Flutter being some sort of project that uses Javascript behind the scenes as well has an extremely similar API with just some quirks. This made the development faster. The source code is on [Github](https://github.com/sevora/regex-to-fa). 
 
 <video style="width: 90%;" autoplay controls>
   <source src="/assets/videos/regex-to-fa.mp4" type="video/mp4">
