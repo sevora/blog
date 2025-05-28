@@ -13,5 +13,5 @@ Sevora:
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/sevora"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/ralph-louis-gopez-b4b26a33a/"
