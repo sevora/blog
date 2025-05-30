@@ -2,7 +2,7 @@
 title: "Vibe Coding is the New Hype"
 ---
 
-But it doesn't actually work. Say what you want. Prompt better, even if you do, the LLM won't get smarter magically.
+But it doesn't actually work. Say what you want. Prompt better, even if you do, the LLM won't get smarter magically. Even "agentic capabilities" are simply adding additional prompts LLMs like GPT models for another output to execute as an instruction that the environment can run. It does not make the LLM behind any smarter.
 
 So it's overhyped. I was pretty much interested trying out vibe coding or so.
 
